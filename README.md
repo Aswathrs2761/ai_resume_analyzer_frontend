@@ -81,6 +81,10 @@ Tailwind CSS handles styling. Dark mode is configured using the `dark` class on 
 
 Feel free to open issues or PRs. This project is intended as a boilerplate for AI‑driven resume analysis applications.
 
+## ai_resume_analyzer URL 
+
+https://airesumeanalyzerfrontend.vercel.app/
+
 ## License
 
 Aswath
